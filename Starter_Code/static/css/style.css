@@ -1,0 +1,17 @@
+/* legend */
+.legend {
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+}
+/* title */
+.title {
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+/*map height */
+#map {
+  height: 500px;
+}
